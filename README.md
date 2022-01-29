@@ -4,7 +4,8 @@ Ever since Rythym bot got removed from discord, I have been searching for a good
 
 Commands Featured
 ========================
-*!play <url> OR <text for youtube search>*
+*!play "url" OR "text for youtube search"*
+
 The play command will search for a video pertaining to the string you give it or it will play the url you provide
 
 *!stop*
